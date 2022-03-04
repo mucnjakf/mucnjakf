@@ -1,6 +1,6 @@
 <h3 align="center">Filip Mucnjak</h3>
 <h5 align="center">I am a developer, software engineering student and programming enthusiast.</h5>
-
+<br/>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" />
