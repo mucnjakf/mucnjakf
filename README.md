@@ -1,4 +1,4 @@
-<h2 align="center">Filip Mucnjak</h2>
+<h3 align="center">Filip Mucnjak</h3>
 <h4 align="center">I am a developer, software engineering student and programming enthusiast.</h4>
 <br/>
 <p align="center">
