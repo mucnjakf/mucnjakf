@@ -15,5 +15,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mucnjakf&count_private=true&show_icons=true&theme=github_dark" alt="Repository stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucnjakf&theme=github_dark" alt="Top languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucnjakf&layout=compact&theme=github_dark" alt="Top languages" width="42%" />
 </div>
