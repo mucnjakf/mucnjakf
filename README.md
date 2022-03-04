@@ -1,1 +1,1 @@
-I am a developer, software engineering student and programming enthusiast.
+[![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=mucnjakf)](https://github.com/mucnjakf/github-readme-stats)
