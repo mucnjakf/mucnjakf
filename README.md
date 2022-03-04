@@ -1,5 +1,6 @@
 <h1 align="center">Filip Mucnjak</h1>
 <h2 align="center">.NET Developer</h2>
+<p align="center">I am a developer, software engineering student and programming enthusiast.</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" />
@@ -12,6 +13,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mucnjakf&count_private=true&show_icons=true&hide_title=true&theme=github_dark" alt="Repository stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucnjakf&layout=compact&hide_title=true&theme=github_dark" alt="Top languages" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mucnjakf&count_private=true&show_icons=true&theme=github_dark" alt="Repository stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucnjakf&layout=compact&theme=github_dark" alt="Top languages" width="42%" />
 </div>
