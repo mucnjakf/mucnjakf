@@ -1,4 +1,15 @@
-<p align="center">  
+<div align="center">
+  <h3>Hello, my name is Filip Mucnjak </br> I am a developer, software engineering student and programming enthusiast.</h3>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mucnjakf&count_private=true&show_icons=true&theme=github_dark" alt="Repository stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucnjakf&layout=compact&theme=github_dark" alt="Top languages" width="42%" />
+</div>
+
+</br>
+
+<div align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="50" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="50" />  
@@ -14,9 +25,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" />    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mucnjakf&count_private=true&show_icons=true&theme=github_dark" alt="Repository stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mucnjakf&layout=compact&theme=github_dark" alt="Top languages" width="42%" />
 </div>
