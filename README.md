@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Developer | Software Engineering Student | Programming Enthusiast</h3>
+  <h3>Software Developer | Software Engineering Student | Programming Enthusiast</h3>
 </div>
 
 <div align="center">
