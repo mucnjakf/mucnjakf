@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hello, my name is Filip Mucnjak </br> I am a developer, software engineering student and programming enthusiast.</h3>
+  <h3>I am a developer, software engineering student and programming enthusiast.</h3>
 </div>
 
 <div align="center">
